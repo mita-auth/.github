@@ -2,6 +2,8 @@
 
 An easy-to-use, framework-agnostic authentication & anti-abuse protection SDK.
 
+**Main Repository**: https://github.com/DiamondPie/mita-auth
+
 ---
 
 > [!TIP]
@@ -24,5 +26,4 @@ An easy-to-use, framework-agnostic authentication & anti-abuse protection SDK.
 
 The project is currently in active development. Packages and official repositories will be published under this organization shortly.
 
-* **License**: MIT
-* **Main Repository**: https://github.com/DiamondPie/mita-auth
+**License**: MIT
